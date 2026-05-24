@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Solgy Portfolio Website
 
 A modern responsive portfolio website built using React, Vite and Tailwind CSS.
@@ -102,3 +103,6 @@ Solgy Varghese
 B.Tech CSE Student
 
 Christ College of Engineering, Kerala
+=======
+# solgy-portfolio
+>>>>>>> 45f3931c3dac043cfa6c1e7f406b251497d95849
